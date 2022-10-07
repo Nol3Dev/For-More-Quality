@@ -1,0 +1,22 @@
+.logo-img {
+    width: 64px;
+    height: 64px;
+}
+
+.header-img_add {
+    width: 65px;
+    height: 65px;
+}
+
+.blog-dropdown {
+    margin-right: 5px;
+}
+
+.icon-header_btn {
+    margin: 0 9px 0 6px;
+}
+
+.icon-header {
+    color: white;
+    align-items: center;
+}
