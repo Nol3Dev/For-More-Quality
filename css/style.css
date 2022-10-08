@@ -59,3 +59,59 @@
 .carousel-text_2 {
     background-color: grey;
 }
+
+.card-position {
+    margin-left: 40px;
+}
+
+.card-flex {
+    display: flex;
+    width: 984px;
+    justify-content: space-between;
+}
+
+.card-profile {
+    display: flex;
+    align-items: flex-start;
+}
+
+.card-profile_img {
+    width: 40px;
+    height: 40px;
+}
+
+.card-p {
+    margin-left: 8px;
+    align-items: center;
+}
+
+.card-drop {
+    justify-self: flex-end;
+}
+
+.main-flex {
+    margin-top: 30px;
+    display: flex;
+}
+
+.card-profile_coment {
+    width: 20px;
+    height: 20px;
+}
+
+.card-profile_coment-add {
+    display: block;
+}
+
+.lateral-menu {
+    width: 200px;
+    height: 700px;
+    display: flex;
+    align-items: flex-end;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.lateral-menu_item {
+    justify-content: flex-start;
+}
